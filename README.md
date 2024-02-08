@@ -1,5 +1,8 @@
 # Quiz
 
+## 💻 Projeto
+Quiz com identificador de acertos que pode ser utilizado com diferentes temas.
+
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
@@ -7,7 +10,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
-Quiz com identifiador de acertos que pode ser utilizado com diferentes temas.
 
 Feito com ♥ por Cris Costa
